@@ -1,0 +1,44 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de IDEs
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+*.suo
+.ntvs
+*.njsproj
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.userprefs
+
+# Archivos generados por Maven/Gradle
+target/
+bin/
+.mvn/
+.gradle/
+build/
+
+# Archivos de empaquetado
+*.jar
+*.war
+*.zip
+*.tar.gz
+
+# Archivos de log y temporales
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ficheros de caché de Spring Boot DevTools
+.spring-boot-devtools.properties
+
+# Archivos de configuración específicos del entorno local (¡sensible!)
+application-local.properties
+application-dev.properties
